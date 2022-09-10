@@ -1,5 +1,5 @@
-Omar Vidaña Rodríguez
+## Omar Vidaña Rodríguez
 
-First MidTerm
+# First MidTerm
 
 The task was to replicate an image into a website.
